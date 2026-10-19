@@ -43,6 +43,6 @@ python evals/run_evals.py
 
 ## Why this exists
 
-Built by [Paweł Boruta-Ośko](https://www.linkedin.com/in/pawel-boruta-osko/), who ran an omnichannel retailer for almost 20 years (ERP, WMS, 50+ integrations) and now builds agentic systems. See also [OpenFill](https://github.com/Pawel-BoOssko/OpenFill), an MCP browser agent. All data in this repo is fictional.
+Built by [Paweł Boruta-Ośko](https://www.linkedin.com/in/pawel-boruta-osko/), who ran an omnichannel retailer for almost 20 years (ERP, WMS, 50+ integrations) and now builds agentic systems. See also [OpenFill](https://github.com/Pawel-BoOssko/OpenFill), an MCP browser agent. All data in this repo is fictional. Written with substantial help from Claude (Anthropic): the matching rules and scope were specified by the author, the code, tests and evals were drafted by Claude Code and reviewed by him.
 
 MIT licence.
